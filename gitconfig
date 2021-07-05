@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = guillaume.jgabriel@gmail.com
+	name = Guillaume JG
